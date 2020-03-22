@@ -1,0 +1,15 @@
+
+.vscode/
+__pycache__/
+
+Imgs_/
+/LIDC-IDRI/*
+/pylung/tests/
+/TrainingSet/*
+/pyprocessing/imageBasket/LPT/*
+/pyprocessing/logs/*
+/microsoft-caffe/caffe/data/nodulesdetect/nodule/*
+/microsoft-caffe/caffe/data/nodulesdetect/non_nodule/*
+/microsoft-caffe/caffe/data/nodulesdetect/small_nodule/*
+/microsoft-caffe/caffe/data/nodulesdetect/health/*
+

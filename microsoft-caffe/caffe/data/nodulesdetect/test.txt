@@ -1,0 +1,2 @@
+nodule/LIDC-IDRI-0255_28_184.5-350.0_0_0.jpg 0
+small_nodule/LIDC-IDRI-0255_27_297-356_0_1.jpg 0

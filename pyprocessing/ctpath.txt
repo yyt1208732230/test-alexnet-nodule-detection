@@ -1,0 +1,2 @@
+D:\MyLab\alexnet_nodule_detection\LIDC-IDRI\LIDC-IDRI-0255\01-01-2000-CT-CHAP-11331\3-Recon 2 C-A-P-94518
+D:\MyLab\alexnet_nodule_detection\LIDC-IDRI\LIDC-IDRI-0256\01-01-2000-CT  CAP  WO CONT-35073\4-Recon 3 C-A-P-08658

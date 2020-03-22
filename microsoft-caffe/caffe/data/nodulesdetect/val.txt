@@ -1,0 +1,9 @@
+nodule/LIDC-IDRI-0255_16_393.5-208.0_0_0.jpg 0
+nodule/LIDC-IDRI-0255_1_175-380_0_0.jpg 0
+nodule/LIDC-IDRI-0255_1_185.0-350.5_0_0.jpg 0
+nodule/LIDC-IDRI-0255_7_185.5-351.5_0_0.jpg 0
+nodule/LIDC-IDRI-0255_8_185.5-351.0_0_0.jpg 0
+nodule/LIDC-IDRI-0255_9_393.5-209.5_0_0.jpg 0
+small_nodule/LIDC-IDRI-0255_24_214-359_0_1.jpg 0
+small_nodule/LIDC-IDRI-0255_25_297-356_0_1.jpg 0
+small_nodule/LIDC-IDRI-0255_26_296-356_0_1.jpg 0
