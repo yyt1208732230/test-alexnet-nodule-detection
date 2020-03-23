@@ -5,12 +5,19 @@ __pycache__/
 Imgs_/
 LIDC-IDRI/*
 !LIDC-IDRI/*.gitkeep
-/pylung/tests/
-/TrainingSet/*
-/pyprocessing/imageBasket/LPT/*
-/pyprocessing/logs/*
+pylung/tests/
+TrainingSet/*
+!TrainingSet/*.gitkeep
+pyprocessing/imageBasket/LPT/*
+!pyprocessing/imageBasket/LPT/*.gitkeep
+pyprocessing/logs/*
+!pyprocessing/logs/*.gitkeep
 /microsoft-caffe/caffe/data/nodulesdetect/nodule/*
+!/microsoft-caffe/caffe/data/nodulesdetect/nodule/*.gitkeep
 /microsoft-caffe/caffe/data/nodulesdetect/non_nodule/*
+!/microsoft-caffe/caffe/data/nodulesdetect/non_nodule/*.gitkeep
 /microsoft-caffe/caffe/data/nodulesdetect/small_nodule/*
+!/microsoft-caffe/caffe/data/nodulesdetect/small_nodule/*.gitkeep
 /microsoft-caffe/caffe/data/nodulesdetect/health/*
+!/microsoft-caffe/caffe/data/nodulesdetect/health/*.gitkeep
 
