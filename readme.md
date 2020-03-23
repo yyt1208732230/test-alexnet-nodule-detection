@@ -53,7 +53,7 @@
 - candidate lung nodules and healthy tissues will categorized under `.\TrainingSet`
 - process files & images will saved under `.\pyprocessing\imageBasket\LPT`
 
-![1584892955062](C:\Users\laurenceyu\AppData\Roaming\Typora\typora-user-images\1584892955062.png)
+![](.\mdimages\nodules.png)
 
 
 
@@ -109,8 +109,8 @@
 
 #### i. Process of lung parenchyma segmentation
 
-![](D:\MyLab\alexnet_nodule_detection\mdimages\lpt.png)
+![](.\mdimages\lpt.png)
 
 #### ii. RGB 3 channels Stacking
 
-![](D:\MyLab\alexnet_nodule_detection\mdimages\stack.png)
+![](.\mdimages\stack.png)
