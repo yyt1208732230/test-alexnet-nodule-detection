@@ -39,6 +39,7 @@
 
 #### i. Before images preprocess
 
+- please remove all `.gitkeep` files in this project before start your experiment
 - generate a pickle pointer-file with python3.7:  `python .\pyprocessing\loadpath.py`
 - make sure the existence of `\TCIA_METADATA\tcia-diagnosis-data-2012-04-20.csv`
 
