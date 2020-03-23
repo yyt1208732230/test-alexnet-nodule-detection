@@ -3,8 +3,8 @@
 __pycache__/
 
 Imgs_/
-/LIDC-IDRI/
-!/LIDC-IDRI/*.gitkeep
+!LIDC-IDRI/*.gitkeep
+LIDC-IDRI/*
 /pylung/tests/
 /TrainingSet/*
 /pyprocessing/imageBasket/LPT/*
