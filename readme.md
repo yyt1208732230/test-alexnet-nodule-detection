@@ -53,7 +53,7 @@
 - candidate lung nodules and healthy tissues will categorized under `.\TrainingSet`
 - process files & images will saved under `.\pyprocessing\imageBasket\LPT`
 
-![](.\mdimages\nodules.png)
+![](./mdimages/nodules.png)
 
 
 
@@ -87,9 +87,9 @@
 
   *(This step will take a long time)*
 
-  ![](.\mdimages\loss.png)
+  ![](./mdimages/loss.png)
 
-![](.\mdimages\accuracy.png)
+![](./mdimages/accuracy.png)
 
 ## 4. Testing
 
@@ -101,7 +101,7 @@
 - check result under `.\microsoft-caffe\caffe\data\nodulesdetect\test_re.npy`
 - analysis : function `drawroc()` in `testresult.py`
 
-![](.\mdimages\auc.png)
+![](./mdimages/auc.png)
 
 
 
@@ -109,8 +109,8 @@
 
 #### i. Process of lung parenchyma segmentation
 
-![](.\mdimages\lpt.png)
+![](./mdimages/lpt.png)
 
 #### ii. RGB 3 channels Stacking
 
-![](.\mdimages\stack.png)
+![](./mdimages/stack.png)
