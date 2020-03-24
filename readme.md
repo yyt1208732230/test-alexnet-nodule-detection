@@ -1,10 +1,11 @@
-# AlexNet CNN Lung Detection 
+# AlexNet CNN Lung Cancer Nodules Detection 
 
 - Brief: Directory involve *CT Lung Nodule Detection Scripts*, testing accuracy of LUNG NODULE DETECTION using AlexNet convolutional neural network.
 - Requirements: 
   - Python3.6,Python2.7(execute caffe pyscript)
   - caffe-windows
-  - Win10
+  - Windows 10
+  - GPU
 
 
 
