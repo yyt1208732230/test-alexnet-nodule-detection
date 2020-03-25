@@ -101,7 +101,7 @@
 - start testing : Under directory `.\microsoft-caffe\caffe\` and execute`python testresult.py  `
 
 - check result under `.\microsoft-caffe\caffe\data\nodulesdetect\test_re.npy`
-- analysis : function `drawroc()` in `testresult.py`
+- analysis : Under directory `.\microsoft-caffe\caffe\` and execute`python testresult.py display`
 
 ![](./mdimages/auc.png)
 

@@ -1,11 +1,12 @@
 '''
 @Date: 2020-03-01 01:06:50
 @LastEditors: Laurence Yu
-@LastEditTime: 2020-03-23 02:48:49
+@LastEditTime: 2020-03-25 15:37:03
 @Description:  
 '''
 import os
 import numpy
+import sys
 
 from sklearn.metrics import roc_auc_score, auc, roc_curve, accuracy_score, recall_score
 import matplotlib.pyplot as plt
@@ -61,6 +62,7 @@ def drawroc():
         truth.append(_t)
         pre.append(_p)
         types.append(_type)
+	print res[r]
     nTruth = numpy.array(truth)
     nPre = numpy.array(pre)
     fpr, tpr, thresholds = roc_curve(nTruth, nPre, pos_label=0)
@@ -129,8 +131,13 @@ def drawroc():
 
 
 if __name__ == "__main__":
-    # testing
-    casffe_test()
 
-    # get result
-    drawroc()
+    if(len(sys.argv)>1 and sys.argv[1] == 'display'):
+        # get result
+        drawroc()
+    else:
+        # testing
+        casffe_test()
+    
+
+    
